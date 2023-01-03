@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CaskinhaXD a beginner in the world of programming
+- 👀 I’m interested in Java Spigot (Minecraft), Java, JS, React
+- 🌱 I’m currently learning Java Spigot and Java
+- 💞️ I’m looking to collaborate on Minecraft Projects and Java Spigot Projects
+- 📫 You can reach me in the Discord (Se7enzito#6412) and Instagram (@bernardocastro___)
